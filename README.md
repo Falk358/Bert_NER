@@ -3,11 +3,12 @@
 
 ## Setup
 
-you need to install  `pipenv` and have `python 3.10` installed. Run `pipenv install` to install all dependencies.
-
+Please run the provided setup script `setup.sh`. It will create a virual environment and install the dependencies in `requirements.txt` into it. 
 
 ## Run
 
-To run the project, run `pipenv run python3 bert_ner.py`
+
+
+To run the project, run `source env/bin/activate` followed by `python3 bert_ner.py`
 
 
