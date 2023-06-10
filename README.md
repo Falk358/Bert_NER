@@ -1,14 +1,3 @@
 # BERT_NER
 
-
-## Setup
-
-Please run the provided setup script `setup.sh`. It will create a virual environment and install the dependencies in `requirements.txt` into it. 
-
-## Run
-
-
-
-To run the project, run `source env/bin/activate` followed by `python3 bert_ner.py`
-
-
+This project is based on the following tutorial: https://towardsdatascience.com/named-entity-recognition-with-bert-in-pytorch-a454405e0b6a. You can run the jupyter notebook locally, if your system supports cuda, or simply open it up in google Colaboratory (https://colab.research.google.com/)
